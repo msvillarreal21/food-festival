@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("throw new Error(\"Module build failed (from ./node_modules/image-webpack-loader/index.js):\\nError: Command failed with ENOENT: /Users/mariasalomevillarreal/Desktop/moduleprojects/food-festival/node_modules/mozjpeg/vendor/cjpeg\\nspawn /Users/mariasalomevillarreal/Desktop/moduleprojects/food-festival/node_modules/mozjpeg/vendor/cjpeg ENOENT\\n\\n\\n    at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)\\n    at onErrorNT (internal/child_process.js:467:16)\\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)\");\n\n//# sourceURL=webpack:///./assets/img/food-table.jpg?");
+eval("module.exports = \"assets/img/food-table.jpg\";\n\n//# sourceURL=webpack:///./assets/img/food-table.jpg?");
 
 /***/ }),
 
@@ -104,7 +104,7 @@ eval("throw new Error(\"Module build failed (from ./node_modules/image-webpack-l
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("throw new Error(\"Module build failed (from ./node_modules/image-webpack-loader/index.js):\\nError: Command failed with ENOENT: /Users/mariasalomevillarreal/Desktop/moduleprojects/food-festival/node_modules/mozjpeg/vendor/cjpeg\\nspawn /Users/mariasalomevillarreal/Desktop/moduleprojects/food-festival/node_modules/mozjpeg/vendor/cjpeg ENOENT\\n\\n\\n    at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)\\n    at onErrorNT (internal/child_process.js:467:16)\\n    at processTicksAndRejections (internal/process/task_queues.js:82:21)\");\n\n//# sourceURL=webpack:///./assets/img/grill.jpg?");
+eval("module.exports = \"assets/img/grill.jpg\";\n\n//# sourceURL=webpack:///./assets/img/grill.jpg?");
 
 /***/ }),
 
