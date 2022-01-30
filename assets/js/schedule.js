@@ -2,7 +2,7 @@ require("bootstrap");
 const createEl = require("./domMethods");
 const { createLoremIpsum, dateConverter } = require('./helpers');
 
-$(docuemnt).ready(function() {
+$(document).ready(function() {
 if (window.location.href.indexOf("schedule") > -1) {
 
     const date = new Date();
