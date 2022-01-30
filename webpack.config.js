@@ -1,7 +1,7 @@
 const webpack = require('webpack');
 const { BundleAnalyzerPlugin } = require('webpack-bundle-analyzer');
 // const SWPrecacheWebpackPlugin = require("sw-precache-webpack-plugin");
-// const WebpackPwaManifest = require("webpack-pwa-manifest");
+const WebpackPwaManifest = require("webpack-pwa-manifest");
 const path = require('path');
 
 const config = {
