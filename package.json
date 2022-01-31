@@ -22,6 +22,7 @@
   "homepage": "https://github.com/msvillarreal21/food-festival#readme",
   "devDependencies": {
     "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "image-webpack-loader": "^7.0.1",
     "webpack": "^4.46.0",
     "webpack-bundle-analyzer": "^4.5.0",
@@ -31,7 +32,8 @@
   "dependencies": {
     "bootstrap": "^4.6.1",
     "jquery": "^3.6.0",
-    "popper": "^1.0.1",
-    "popper.js": "^1.16.0"
+    "popper.js": "^1.16.0",
+    "sw-precache-webpack-plugin": "^1.0.0",
+    "webpack-pwa-manifest": "^4.3.0"
   }
 }
